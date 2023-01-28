@@ -1,0 +1,5 @@
+The pendigits dataset. This dataset contains data for pen-based recognition of handwritten digits.
+7494 training objects.
+3498 test objets.
+16 dimensions.
+10 classes.
